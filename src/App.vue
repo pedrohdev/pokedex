@@ -10,7 +10,7 @@
 
     </div>
 
-    <div class="columns mt-1">
+    <div class="columns mt-1 mr-2 ml-2">
 
       <div class="column is-half is-offset-one-quarter" align="center">
 
